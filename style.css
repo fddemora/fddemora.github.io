@@ -1,0 +1,17 @@
+body{
+    background-color: lightslategray;
+}
+
+.container1 {
+    width: 100%;
+}
+
+.child-container1 {
+    margin: 10px auto;
+    width: 30%;
+    background-color: silver;
+    padding: 1%;
+    border-radius: 1%;
+
+}
+
