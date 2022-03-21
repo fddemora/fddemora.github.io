@@ -1,15 +1,15 @@
 /* HEADER */
 
-* {
-    box-sizing: border-box;
-}
-
-*, *:before, *:after {
-    box-sizing: inherit;
+* { /* css reset */
+    margin: 0;
+    padding: 0;
+   /* box-sizing: border-box;
+   reference: https://www.freecodecamp.org/news/html-page-width-height/ */
 }
 
 body{
     background-color: rgb(26, 27, 31);
+    min-height: 100vh;
 }
 
 .container1 {
@@ -48,3 +48,28 @@ body{
 }
 
 /***********************************************************************************************************/
+/* NAV */
+
+
+nav {
+    border: solid rgb(150, 150, 150);
+    border-width: 1px;
+    height: 30px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    margin: 5px 5px 0px 5px;
+    
+}
