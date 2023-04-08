@@ -1,8 +1,8 @@
 # fddemora.github.io
 
+<br>
+updates needed: <br>
 
-updates needed:
-
--media queries
--add a few more sections if possible
--update/improve resume
+-media queries <br>
+-add a few more sections if possible <br>
+-update/improve resume <br>
