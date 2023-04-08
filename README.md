@@ -3,6 +3,7 @@
 <br>
 updates needed: <br>
 
+
 -media queries <br>
 -add a few more sections if possible <br>
 -update/improve resume <br>
