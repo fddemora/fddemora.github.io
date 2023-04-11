@@ -99,15 +99,16 @@ nav a {
     text-align: center;
     width: 40rem;
     margin: 1.5rem auto;
-    height: 11rem;
-
 }
 
-.section-skills  div {
+.section-skills div div {
     text-align: start;
     width: 16rem;
     float: left;
-    position: relative;
-    left: 5rem;
 }
 
+.section-skills div {
+    height: 9rem;
+    width: 32rem;
+    margin: 0 auto;
+}
