@@ -101,14 +101,16 @@ nav a {
     margin: 1.5rem auto;
 }
 
+.section-skills div {
+    height: 9rem;
+    width: 32rem;
+    margin: 0 auto;
+}
+
 .section-skills div div {
     text-align: start;
     width: 16rem;
     float: left;
 }
 
-.section-skills div {
-    height: 9rem;
-    width: 32rem;
-    margin: 0 auto;
-}
+
